@@ -1,0 +1,4 @@
+# EA4_Lab_4
+
+Lab 4 deals with stiff systems and how to modify the ode45 solver to become more efficient.  The explicit ode45 solver was compared to the implicit ode15 solver.
+EA4 was a class taken at Northwestern University in the Fall of 2021 with 4 teammates. All labs were done in MatLab
